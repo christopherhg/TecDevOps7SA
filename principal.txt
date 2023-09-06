@@ -1,1 +1,4 @@
 Este es primer archivo del repositorio de Christopher H. Gámez
+
+Actualización 1
+agregamos 2 lineas en la actualización 1
